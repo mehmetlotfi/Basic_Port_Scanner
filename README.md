@@ -37,7 +37,7 @@ This program displays all open port numbers on the target-ip host on the screen 
 
 for example:
 ```bash
-./QRdecoder 192.168.1.1
+./port_scanner 192.168.1.1
 ```
 To access this scanner file from anywhere, you can add the executable file (port_scanner) to your shell PATH.
 
